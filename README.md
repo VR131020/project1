@@ -1,2 +1,4 @@
 # project1
-this is my first git project Author-vishal rathod
+this is my first git project 
+<br>
+Author-vishal rathod
